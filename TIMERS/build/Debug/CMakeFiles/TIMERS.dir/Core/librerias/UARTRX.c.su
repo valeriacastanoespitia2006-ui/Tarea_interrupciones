@@ -1,0 +1,4 @@
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_interrupciones/TIMERS/Core/librerias/UARTRX.c:25:6:uartRX_it_idle_dma_init	24	static
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_interrupciones/TIMERS/Core/librerias/UARTRX.c:41:7:uartRX_DMA_Re_init	16	static
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_interrupciones/TIMERS/Core/librerias/UARTRX.c:53:6:uartRX_INTERRUPT	0	static
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_interrupciones/TIMERS/Core/librerias/UARTRX.c:75:7:uartRX_Errores	16	static

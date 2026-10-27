@@ -1,0 +1,2 @@
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_interrupciones/TIMERS/Core/librerias/UART_INT_DMA_IDLE.c:16:6:HAL_UARTEx_RxEventCallback	8	static
+C:/Users/USUARIO/Desktop/Embebidos/Tarea_interrupciones/TIMERS/Core/librerias/UART_INT_DMA_IDLE.c:22:6:HAL_UART_ErrorCallback	8	static
